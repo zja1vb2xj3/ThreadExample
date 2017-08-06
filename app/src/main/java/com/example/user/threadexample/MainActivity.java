@@ -1,4 +1,4 @@
-package com.example.user.servicebroadcastreceiverexam;
+package com.example.user.threadexample;
 
 import android.app.Activity;
 import android.os.Bundle;
